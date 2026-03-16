@@ -15,8 +15,8 @@ from stats_engine import format_stats_field, star_rating, generate_stats
 
 # ── Constantes visuais ─────────────────────────────────────────────────────────
 
-KAKERA_EMOJI   = "🔮"
-HEART_EMOJI    = "💖"
+KAKERA_EMOJI   = "💲"
+HEART_EMOJI    = "🟩"
 KAKERA_COLOR   = 0x9B59B6
 WAIFU_COLOR    = 0xFF69B4
 HUSBANDO_COLOR = 0x4169E1
@@ -34,7 +34,7 @@ def _build_character_embed(
     footer: str | None = None,
 ) -> discord.Embed:
     """Constrói o embed estilo 'prévia de link' do Mudae com stats RPG."""
-    kakera = character.get("kakera", 50)
+    kakera = character.get("col", 50)
     stats  = character.get("stats")
     genres = character.get("genres", [])
     genre_str = ", ".join(genres[:3]) if genres else "—"
@@ -57,13 +57,13 @@ def _build_character_embed(
         )
 
     # ── Info row ───────────────────────────────────────────────────────────────
-    embed.add_field(name=f"{KAKERA_EMOJI} Kakera", value=f"**{kakera}**", inline=True)
+    embed.add_field(name=f"{KAKERA_EMOJI} Col", value=f"**{kakera}**", inline=True)
     embed.add_field(name="❤️ Favoritos", value=f"**{character.get('favorites', 0):,}**", inline=True)
 
     if footer:
         embed.set_footer(text=footer)
     else:
-        embed.set_footer(text="💖 Claim  •  🔮 Kakera  •  $status <nome> para detalhes")
+        embed.set_footer(text="🟩 Claim  •  💲 Kakera")
 
     return embed
 
@@ -85,7 +85,7 @@ class CharacterView(ui.View):
         except Exception:
             pass
 
-    @ui.button(label="💖  Claim", style=discord.ButtonStyle.danger, custom_id="claim_btn")
+    @ui.button(label="🟩  Recruit", style=discord.ButtonStyle.danger, custom_id="claim_btn")
     async def claim_button(self, interaction: discord.Interaction, button: ui.Button):
         user     = interaction.user
         guild_id = interaction.guild_id
@@ -138,11 +138,11 @@ class CharacterView(ui.View):
         )
         await interaction.response.edit_message(embed=embed, view=self)
         await interaction.followup.send(
-            f"{HEART_EMOJI} **{user.mention}** acabou de casar com "
+            f"{HEART_EMOJI} **{user.mention}** acabou de recrutar"
             f"**{self.character['name']}** de *{self.character['anime']}*!"
         )
 
-    @ui.button(label="🔮  Kakera", style=discord.ButtonStyle.secondary, custom_id="kakera_btn")
+    @ui.button(label="💲 Col", style=discord.ButtonStyle.secondary, custom_id="kakera_btn")
     async def kakera_button(self, interaction: discord.Interaction, button: ui.Button):
         if self.claimed:
             await interaction.response.send_message(
@@ -152,11 +152,11 @@ class CharacterView(ui.View):
 
         user        = interaction.user
         db_user     = get_user(user.id)
-        kakera_gain = self.character.get("kakera", 50)
+        kakera_gain = self.character.get("Col", 50)
 
         if db_user.get("last_kakera_char") == self.character["mal_id"]:
             await interaction.response.send_message(
-                "❌ Você já coletou os kakera deste personagem!", ephemeral=True
+                "❌ Você já coletou os cols deste personagem!", ephemeral=True
             )
             return
 
@@ -168,7 +168,7 @@ class CharacterView(ui.View):
         button.label    = f"🔮  +{kakera_gain}"
         await interaction.response.edit_message(view=self)
         await interaction.followup.send(
-            f"{KAKERA_EMOJI} **{user.mention}** coletou **{kakera_gain} kakera** "
+            f"{KAKERA_EMOJI} **{user.mention}** coletou **{kakera_gain} Cols** "
             f"de {self.character['name']}! *(Total: {total})*"
         )
 
@@ -295,7 +295,7 @@ class Characters(commands.Cog):
             value=format_stats_field(stats),
             inline=False,
         )
-        embed.add_field(name=f"{KAKERA_EMOJI} Kakera", value=f"**{character.get('kakera', 50)}**", inline=True)
+        embed.add_field(name=f"{KAKERA_EMOJI} Col", value=f"**{character.get('Col', 50)}**", inline=True)
         embed.add_field(name="❤️ Favoritos", value=f"**{character.get('favorites', 0):,}**", inline=True)
         embed.set_footer(text="Stats gerados pelo gênero do anime + popularidade do personagem")
 
@@ -343,12 +343,12 @@ class Characters(commands.Cog):
 
     # ── $harem ─────────────────────────────────────────────────────────────────
 
-    @commands.command(name="harem", aliases=["mm", "mywaifu"])
+    @commands.command(name="team", aliases=["mm"])
     async def show_harem(self, ctx: commands.Context, member: discord.Member | None = None):
         """Exibe o harém de um usuário."""
         target = member or ctx.author
         user   = get_user(target.id)
-        harem  = user.get("harem", [])
+        harem  = user.get("team", [])
 
         if not harem:
             await ctx.send(embed=discord.Embed(
@@ -359,11 +359,11 @@ class Characters(commands.Cog):
 
         per_page     = 5
         pages        = [harem[i:i+per_page] for i in range(0, len(harem), per_page)]
-        kakera_total = user.get("kakera", 0)
+        kakera_total = user.get("Col", 0)
 
         embed = discord.Embed(
-            title=f"💖 Harém de {target.display_name}",
-            description=f"{KAKERA_EMOJI} **{kakera_total} kakera** | **{len(harem)} personagens**",
+            title=f"Equipe de {target.display_name}",
+            description=f"{KAKERA_EMOJI} **{kakera_total} Col** | **{len(harem)} personagens**",
             color=WAIFU_COLOR,
         )
         for char in pages[0]:
@@ -372,7 +372,7 @@ class Characters(commands.Cog):
             stars     = star_rating(stats) if stats else "⭐"
             embed.add_field(
                 name=f"{stars} {char['name']}",
-                value=f"*{char['anime']}*  •  {KAKERA_EMOJI}{char['kakera']}  •  ⚡`{total_pow}`",
+                value=f"*{char['anime']}*  •  {KAKERA_EMOJI}{char['Col']}  •  ⚡`{total_pow}`",
                 inline=False,
             )
         if pages[0]:
@@ -382,13 +382,13 @@ class Characters(commands.Cog):
 
     # ── $kakera ────────────────────────────────────────────────────────────────
 
-    @commands.command(name="kakera", aliases=["kk"])
+    @commands.command(name="Col", aliases=["CC"])
     async def show_kakera(self, ctx: commands.Context, member: discord.Member | None = None):
         target = member or ctx.author
         user   = get_user(target.id)
-        total  = user.get("kakera", 0)
+        total  = user.get("Col", 0)
         embed  = discord.Embed(
-            title=f"{KAKERA_EMOJI} Kakera de {target.display_name}",
+            title=f"{KAKERA_EMOJI} Cols de {target.display_name}",
             description=f"**{total:,}** {KAKERA_EMOJI}",
             color=KAKERA_COLOR,
         )

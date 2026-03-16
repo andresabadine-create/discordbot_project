@@ -38,8 +38,6 @@ bot = MudaeBot(
     help_command=None,
     case_insensitive=True,
 )
- 
- 
 # ─────────────────────────────────────────
 #  Eventos
 # ─────────────────────────────────────────
@@ -52,8 +50,6 @@ async def on_ready():
             name="VASCO DA GAMA E NADA MAIS!",
         )
     )
- 
- 
 @bot.event
 async def on_command_error(ctx, error):
     if isinstance(error, commands.CommandOnCooldown):
@@ -67,8 +63,6 @@ async def on_command_error(ctx, error):
         pass  # ignora comandos desconhecidos silenciosamente
     else:
         raise error
- 
- 
 # ─────────────────────────────────────────
 #  Entry point
 # ─────────────────────────────────────────

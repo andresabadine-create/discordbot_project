@@ -15,10 +15,16 @@ class Help(commands.Cog):
         """Lista todos os comandos disponíveiss."""
         embed = discord.Embed(
             title="📖 Comandos do Bot",
-            description="KIRITAO — Colete personagens de animes!\nPrefixos: `$` ou `!`",
+            description="KIRITAO — Colete personagens de animes e Batalhe entre amigos!\nPrefixos: `$` ou `!`",
             color=0xFF69B4,
         )
-
+        embed.add_field(
+            name="Sistema de Luta",
+            value=(
+                "⚠️⚠️ O Sistema de luta está em desenvolvimento! ⚠️⚠️\n"
+            ),
+            inline=False,
+        )
         embed.add_field(
             name="🎲 Rolls",
             value=(
@@ -31,8 +37,8 @@ class Help(commands.Cog):
         embed.add_field(
             name="💖 Coleção",
             value=(
-                "`$harem [@usuário]` — Veja seu harém ou de alguém\n"
-                "`$kakera [@usuário]` — Veja o saldo de kakera\n"
+                "`$team [@usuário]` — Veja sua equipe ou de alguém\n"
+                "`$col [@usuário]` — Veja o saldo de col\n"
                 "`$profile [@usuário]` — Perfil completo"
             ),
             inline=False,
@@ -43,10 +49,10 @@ class Help(commands.Cog):
             inline=False,
         )
         embed.add_field(
-            name=f"🔮 Sistema Kakera",
+            name=f"💲 Sistema Col",
             value=(
-                "Personagens possuem valor em **kakera** baseado nos favoritos do MAL.\n"
-                "Clique em 🔮 no roll para coletar. Acumule para futuros upgrades!"
+                "Personagens possuem valor em **col** baseado nos favoritos do MAL.\n"
+                "Clique em 💲 no roll para coletar. Acumule para futuros upgrades!"
             ),
             inline=False,
         )

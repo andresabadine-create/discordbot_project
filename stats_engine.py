@@ -147,7 +147,7 @@ def stat_bar(value: int, max_val: int = 150, length: int = 10) -> str:
     """Gera uma barra de progresso em texto para exibição no embed."""
     filled = round((value / max_val) * length)
     filled = max(0, min(length, filled))
-    return "█" * filled + "░" * (length - filled)
+    return "█ " * filled + " " * (length - filled)
 
 
 # ── Formata bloco de stats para embed ─────────────────────────────────────────

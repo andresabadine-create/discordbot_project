@@ -44,7 +44,7 @@ class CharacterView(ui.View):
         except Exception:
             pass
 
-    # ── Botão: Claim / Marry ───────────────────────────────────────────────────
+    # ── Botão: Claim / Marrry ───────────────────────────────────────────────────
 
     @ui.button(label="👽  Sequestre", style=discord.ButtonStyle.danger, custom_id="claim_btn")
     async def claim_button(self, interaction: discord.Interaction, button: ui.Button):

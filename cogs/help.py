@@ -12,7 +12,7 @@ class Help(commands.Cog):
 
     @commands.command(name="help", aliases=["commands"])
     async def help_cmd(self, ctx: commands.Context):
-        """Lista todos os comandos disponíveis."""
+        """Lista todos os comandos disponíveiss."""
         embed = discord.Embed(
             title="📖 Comandos do Bot",
             description="Clone do Mudae Bot — Colete personagens de animes!\nPrefixos: `$` ou `!`",

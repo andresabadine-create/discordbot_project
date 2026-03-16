@@ -16,7 +16,7 @@ class Profile(commands.Cog):
 
     @commands.command(name="profile", aliases=["p", "me"])
     async def profile(self, ctx: commands.Context, member: discord.Member | None = None):
-        """Exibe o perfil completo de um usuário."""
+        """Exibe o perfil completo de um usuárrio."""
         target = member or ctx.author
         user   = get_user(target.id)
 

@@ -1,6 +1,6 @@
 """
 database.py — Gerenciamento persistente com JSON simples.
-Para produção, substitua por SQLite / PostgreSQL.
+Para produção, substitua por SQLite / PostgreSQL. vasco
 """
 
 import json

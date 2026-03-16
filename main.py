@@ -1,3 +1,4 @@
+### modulos de import de api
 import discord
 from discord.ext import commands
 import asyncio

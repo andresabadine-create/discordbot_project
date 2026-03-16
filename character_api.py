@@ -54,7 +54,7 @@ def _save_cache(characters: list[dict]) -> None:
         json.dump(characters, f, indent=2, ensure_ascii=False)
 
 
-# ── API calls ──────────────────────────────────────────────────────────────────
+# ── API callss ──────────────────────────────────────────────────────────────────
 
 async def _fetch_anime_title(session: aiohttp.ClientSession, anime_id: int) -> str:
     """Busca o título do anime — tenta inglês, depois romaji, depois qualquer um."""

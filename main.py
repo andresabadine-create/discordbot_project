@@ -49,7 +49,7 @@ async def on_ready():
     await bot.change_presence(
         activity=discord.Activity(
             type=discord.ActivityType.playing,
-            name="$wa | $ha | $help - VASCO DA GAMA E NADA MAIS!",
+            name="VASCO DA GAMA E NADA MAIS!",
         )
     )
  

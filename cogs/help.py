@@ -15,7 +15,7 @@ class Help(commands.Cog):
         """Lista todos os comandos disponíveiss."""
         embed = discord.Embed(
             title="📖 Comandos do Bot",
-            description="Clone do Mudae Bot — Colete personagens de animes!\nPrefixos: `$` ou `!`",
+            description="KIRITAO — Colete personagens de animes!\nPrefixos: `$` ou `!`",
             color=0xFF69B4,
         )
 

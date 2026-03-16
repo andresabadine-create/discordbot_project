@@ -1,0 +1,3791 @@
+[
+  {
+    "mal_id": 82527,
+    "name": "Dola, Stephanie",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/274341.jpg?s=f3790b1ee7e0fdbc48e0efc33ea1d8a8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 82525,
+    "name": "Shiro",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/246723.jpg?s=f4157cfba8d5f968e2762c7c45d9bed6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 82523,
+    "name": "Sora",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/274345.jpg?s=06eb61af436f33e257186eec28ba3490",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 105919,
+    "name": "Former King",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/265851.jpg?s=9c6b98c1c6285433c5dee32ca05a5452",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 104849,
+    "name": "Hatsuse, Ino",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/253941.jpg?s=f6203e20996844956aec53336374255f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 97767,
+    "name": "Hatsuse, Izuna",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/252987.jpg?s=e7d77493e9e7035d03ba428303548949",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159563,
+    "name": "High Official",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/352006.jpg?s=c421b8f90c6adb0f2907f14b938fcd81",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 97761,
+    "name": "Jibril",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/248121.jpg?s=8a45ecdadeb3860396ac6eb6af6b278e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 106839,
+    "name": "Miko",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/434617.jpg?s=e9fdc367b8c3f8394f98b275ef178dbd",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159564,
+    "name": "Minister of Agriculture",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/352007.jpg?s=b00718f18ee7bf6f298585d8de130dda",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159565,
+    "name": "Minster of Economy",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/352008.jpg?s=61214b329568888bd66d0a44d982114c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 97765,
+    "name": "Nirvalen, Fiel",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/245845.jpg?s=9ca576db27014ca33472c5c415ca1c58",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 117075,
+    "name": "Queen",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/265869.jpg?s=90404c53625840ee0f5c602e677aa27e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159566,
+    "name": "Robber",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/352009.jpg?s=ed6077a0b4b7eeca9bab471cbd3bba11",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159561,
+    "name": "Sakaba no Onna",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/352001.jpg?s=d13aecb642b13201ae6b730e954ed987",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 97769,
+    "name": "Tet",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/274285.jpg?s=f67e858452a190d703b5e2fd42da6505",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159562,
+    "name": "Warrior",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/352002.jpg?s=5707cd0db839dbe6ba1da5bcd46c1832",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 97763,
+    "name": "Zell, Chlammy",
+    "anime": "No Game, No Life",
+    "anime_id": 19815,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/265845.jpg?s=407c316dc08487979587911d77eb72e0",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 36765,
+    "name": "Kirigaya, Kazuto",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/204821.jpg?s=6a96a832b35d0ff3af9292bdb082546e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 36831,
+    "name": "Kirigaya, Suguha",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/192515.jpg?s=61eedc4ceb95b186ae903a1e00e2bbea",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 36828,
+    "name": "Yuuki, Asuna",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/262053.jpg?s=449153df46cce80307c9f8ae622b4514",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72901,
+    "name": "Alicia Rue",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/187203.jpg?s=b88c5bcde7a9b5b010e3f80b3bea5694",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 66645,
+    "name": "Argo",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/297087.jpg?s=17f9f95b9b0a926971ae4dcded53e089",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 37681,
+    "name": "Ayano, Keiko",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/166545.jpg?s=ac99a87c3df8d84f33a34ef9f8b50561",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 70683,
+    "name": "Casals, Vassago",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/270083.jpg?s=0398041be999c9bd11092b6fe8bdf4b6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 67149,
+    "name": "Caynz",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/176791.jpg?s=35c5567a795be76672a7446dd55ba35f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 65169,
+    "name": "Diabel",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/174903.jpg?s=145dcde8f722f84e5df883fb0157eca4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72343,
+    "name": "Ducker",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/185413.jpg?s=a147acdd616641fb102e734cb7a581ec",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72903,
+    "name": "Eugene",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/187201.jpg?s=2b265653205c4086f0a10add6e73c7f7",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 118369,
+    "name": "Ginn",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/315205.jpg?s=ef9b4c20bffaf87d83bcd94f136d6c93",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 69403,
+    "name": "Godfrey",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/179187.jpg?s=163c2fc5605c77d12bb430859a359a2d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72345,
+    "name": "Grimlock",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/452690.jpg?s=c0e189f8f025aad7d88fea17bf8d381a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 68885,
+    "name": "Heathcliff",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/178383.jpg?s=181b00224582fdb5492d27983d670a8e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 74093,
+    "name": "Jitax",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/192501.jpg?s=8bd302561cb0f754dd5c86697c94e8bc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72653,
+    "name": "Kagemune",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/187199.jpg?s=667251a74fcd777dbe9f079125386835",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 118371,
+    "name": "Kain",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/548568.jpg?s=9f8b1475fd6b390dde0dd7956a9d6895",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 70687,
+    "name": "Kanamoto, Atsushi",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/181325.jpg?s=63bfc7f104edbc6a59b1a45337b0f5c3",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 36829,
+    "name": "Kayaba, Akihiko",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/192505.jpg?s=036c5729790631b16646b9eb7b4660da",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 54779,
+    "name": "Keita",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/173819.jpg?s=be3555c9e04c16c9b6fd2ec29f880d55",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 65171,
+    "name": "Kibaou",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/491271.jpg?s=97957aad18a8bf3d932e24ce5c80e98f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 36833,
+    "name": "Kirigaya, Midori",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/192507.jpg?s=66ea148cc7039b3336ab5dd2b804488f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72711,
+    "name": "Kovats",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/185399.jpg?s=6843c141ba8b599fa35fc11abd9514d7",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 66327,
+    "name": "Kuradeel",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/177111.jpg?s=abcdd29485dbe422d50d86096a8c7464",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 54099,
+    "name": "Mills, Andrew Gilbert",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/177117.jpg?s=81ec26132fb4dcdb270fdf0b27a44597",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 118367,
+    "name": "Mina",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/432537.jpg?s=0a240cac42d37643e56931d2581144ba",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72349,
+    "name": "Nagata, Shinichi",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/192511.jpg?s=e38e78474420e6abbe44671fd6742aaa",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 140033,
+    "name": "Namekuji",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/303717.jpg?s=4ca20f5c2fd647c3250270f60cdf0929",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72347,
+    "name": "Nishida",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/185393.jpg?s=ba7a2f8f99e872aca293aefb3f15c256",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 115629,
+    "name": "Pina",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/264159.jpg?s=69f3f2b77f5b95fee10d87e0f0beaba8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 71579,
+    "name": "Rosalia",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/183337.jpg?s=9625e0fc256477c1d8451ed5989c7445",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 54777,
+    "name": "Sachi",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/264145.jpg?s=c9aaa951163588355533fff0930897d5",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 73811,
+    "name": "Sakuya",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/187205.jpg?s=d1d8c1be60182c0aac8a08c7e1e65ec0",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72341,
+    "name": "Sasamaru",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/185409.jpg?s=dbbb03927bcb15accef23ba559d58405",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 70677,
+    "name": "Sasha",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/181189.jpg?s=a126e97e7e95892ed35a325b007e4af5",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72337,
+    "name": "Schmitt",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/477764.jpg?s=67d5c85b70b3290e0d4a5ae2395a49bc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 70685,
+    "name": "Shinkawa, Shouichi",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/260425.jpg?s=abe39bc24188b1d32aaa736028c62273",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 43906,
+    "name": "Shinozaki, Rika",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/166543.jpg?s=227db8613051e36af60aee78b7841eb2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72905,
+    "name": "Sigurd",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/192503.jpg?s=45a72cbb69c4ca455378c1fa2c8b7088",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 71581,
+    "name": "Sugou, Nobuyuki",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/192509.jpg?s=6fa522d8b900c13185cd2352ee9a60d6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72339,
+    "name": "Tetsuo",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/185411.jpg?s=123f3a44fee090dbc9c5162920c3a7a3",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 207238,
+    "name": "The Gleam Eyes",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/467166.jpg?s=dbeee44198490361dcbc3adf34c5663d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 70681,
+    "name": "Thinker",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/181191.jpg?s=02b6ff1252488a9983f75cdc6f5c2dbb",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 36830,
+    "name": "Tsuboi, Ryoutarou",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/177109.jpg?s=422a9f89a2e8e9d99a4742be2cd41b05",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 67151,
+    "name": "Yolko",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/175847.jpg?s=0995f34dbde289f139e838b4cb4cd588",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 43892,
+    "name": "Yui",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/264165.jpg?s=56e6fe02305973c72bfa7f3d91e9d806",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 70679,
+    "name": "Yulier",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/181195.jpg?s=0c2c8101ef9f4c47c928a89b761d804f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 36832,
+    "name": "Yuuki, Shouzou",
+    "anime": "Sword Art Online",
+    "anime_id": 11757,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/491273.jpg?s=51582efecbf00714a0439ea82bb8a991",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 87275,
+    "name": "Kaneki, Ken",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/307255.jpg?s=a3b352a4950d3231677668626b1a95f4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 87277,
+    "name": "Kirishima, Touka",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/234699.jpg?s=10ef474344779135236911013b0925fc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113779,
+    "name": "Abe, Maiko",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/259779.jpg?s=67ed4d2dfb07359d050eb3a0ec91ca8d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 99671,
+    "name": "Amon, Koutarou",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/251453.jpg?s=cf7bdc7cb409357d69720b0aee488ff6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 111767,
+    "name": "Arima, Kishou",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257935.jpg?s=774409608456392dcaca31f53234bb53",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112687,
+    "name": "Banjou, Kazuichi",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/258499.jpg?s=f4c8bd78f37677f38a47a8e28b8e7056",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110241,
+    "name": "Enji, Koma",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/257941.jpg?s=f6702db6de1a2f2829577a566d3e43ce",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112997,
+    "name": "Eto",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/276501.jpg?s=6bd3d1eda8082217b36d0e2ff2d8775f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110247,
+    "name": "Fueguchi, Asaki",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/256013.jpg?s=b0bc1ac1d05a2c8951a95cc1229cb4a3",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 99675,
+    "name": "Fueguchi, Hinami",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/263269.jpg?s=847a2a380804cf8e0c70b2dc2d5e2f17",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110245,
+    "name": "Fueguchi, Ryouko",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/255607.jpg?s=4ddbbd5e2fcfb555e9960643c9bde81e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113843,
+    "name": "Gori, Misato",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/259931.jpg?s=f7e4ce85c9ded2e1edef8cc8b663d646",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113847,
+    "name": "Haru",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/259935.jpg?s=409302e84b9e5cb52c8746c0283ab12d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 123347,
+    "name": "Hirako, Take",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/356024.jpg?s=ad15601aa4f81a12c46a380b0650a533",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112723,
+    "name": "Houji, Kousuke",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/276349.jpg?s=2a5681ed8c678474ecb20cc2861f7ace",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113885,
+    "name": "Ichimi",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/260097.jpg?s=3deafaabb4deb26a158208439dc348a8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110989,
+    "name": "Irimi, Kaya",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/274837.jpg?s=9ff4e20b10596ddcc082bb7ea3626818",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110539,
+    "name": "Itori",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/254475.jpg?s=2254f6b076a1b434cd0d658722c2df0c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113887,
+    "name": "Jiro",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/260099.jpg?s=78400039402ae0e23c86e1d8154dd0e6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 103409,
+    "name": "Kamishiro, Rize",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/251965.jpg?s=57d66947438e9fc0d9935c61be760a70",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113849,
+    "name": "Kaneki, Mother",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/259937.jpg?s=6388d86412fd4eb82d7c912bccad0083",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113891,
+    "name": "Kanou, Akihiro",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/339852.jpg?s=bedd8a6492bed4f6cbfe97d57118015d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112689,
+    "name": "Kirishima, Arata",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/257939.jpg?s=981db328545db4da789e8ff5f4830535",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 105231,
+    "name": "Kirishima, Ayato",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/258501.jpg?s=c45a7939e0741dcc583be3cf50b1adca",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110251,
+    "name": "Kosaka, Yoriko",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/276507.jpg?s=71015b87471a1864b314696690b9394b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112441,
+    "name": "Kusaba, Ippei",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/259533.jpg?s=6fcca8c20f90e2eccbc59cf4a2576920",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113845,
+    "name": "Mabuchi, Katsuya",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/370091.jpg?s=fd3a334eb7a27307f344fb5d0cc55859",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 99673,
+    "name": "Mado, Kureo",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/252567.jpg?s=0592538def7f6b119007e77fc5c1acf2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113889,
+    "name": "Maid",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/260101.jpg?s=8ea2fd6bb411f1faa51997d505b9d362",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113841,
+    "name": "Marude, Itsuki",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/298436.jpg?s=f15b4596245c5c8928051606446a69fc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112721,
+    "name": "Muramatsu, Kie",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/262617.jpg?s=9df0fd7d3935c7cc2781417ff2d37aa1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 103415,
+    "name": "Nagachika, Hideyoshi",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/290838.jpg?s=631b2803bd832aab25b443203e05e4d2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112719,
+    "name": "Nakajima, Yasunori",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/259535.jpg?s=11ef92660494a28ec3b045d6c6878f8a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113105,
+    "name": "Nico",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/258485.jpg?s=298f3d4b5cbfaf39c52c2c9ff18363b2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110249,
+    "name": "Nishino, Kimi",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/262473.jpg?s=03d9c43a0897f1a91c6ecf2c0f274812",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113781,
+    "name": "Nishio, Elder Sister",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/259781.jpg?s=fcccbe13b80819710e741f2ae9ce4645",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 105923,
+    "name": "Nishio, Nishiki",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/259333.jpg?s=1b62f45068a28795c3cb331463e75e49",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113669,
+    "name": "Noro",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/276497.jpg?s=a93adc3b019080c3b9c90563c626d8f6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 161738,
+    "name": "Ogura, Hisashi",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/368390.jpg?s=5dfc2473adc11c480adfb79d912bfd49",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113895,
+    "name": "Older Bin-Brother",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/260411.jpg?s=b5960ad571dd9411c297d30c675f6e0c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110243,
+    "name": "Oomori, Yakumo",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/255631.jpg?s=1fa1606fe25543096f584aaf8ef749b5",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113893,
+    "name": "Porpora, Donato",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/276502.jpg?s=391f798ce4acba05c370ebf368d000ce",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113883,
+    "name": "Sante",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/260095.jpg?s=4f41fd3c85a181d3ad9b933c498e936a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112685,
+    "name": "Shinohara, Yukinori",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/303584.jpg?s=7dfe00ebd9223b723f595722ac64c97b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113879,
+    "name": "Shuu",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/260091.jpg?s=2c4fda28fe4b9cd553d36171dd435ee6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113881,
+    "name": "Soba shopkeeper",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/260093.jpg?s=821ec5b647e4bc9210874a780b1f2263",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113777,
+    "name": "Souta",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/259777.jpg?s=29bdc249d3a02ac8c8b519a03a1cb398",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 104437,
+    "name": "Suzuya, Juuzou",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/275843.jpg?s=a56227409808edb48f5e9cb3c85211b0",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113877,
+    "name": "Taguchi",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/260089.jpg?s=c8b075865577b897a447ecd2b00c4b8d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112551,
+    "name": "Takizawa, Seidou",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/276528.jpg?s=430409ced1eda2ccb54d17b27abf3784",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 110509,
+    "name": "Taro",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/259349.jpg?s=8d644e379a9a029aaea887ba623a6101",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 112941,
+    "name": "Tatara",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/258515.jpg?s=c408ee12eaea890a301e2d4512367175",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 162042,
+    "name": "Tokage, Goumasa",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358529.jpg?s=430625c8159223e14b44149463ebea18",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 104059,
+    "name": "Tsukiyama, Shuu",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296873.jpg?s=775d67102b007899c75d8d76490bd0c7",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 93343,
+    "name": "Uta",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/259327.jpg?s=aa8d9d2ead39a6add9b0c2cc36bb69b5",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 103411,
+    "name": "Yomo, Renji",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/259329.jpg?s=2529443c4b9622dfdf093b260cfd68ca",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 109577,
+    "name": "Yoshida, Kazuo",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/253913.jpg?s=b4653ff8520395144821137b55b295fa",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 103413,
+    "name": "Yoshimura",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/256459.jpg?s=b6027f0b98c937a088762554edaec4f5",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 113897,
+    "name": "Younger Bin-Brother",
+    "anime": "Tokyo Ghoul",
+    "anime_id": 22319,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/260413.jpg?s=668955445b5651d110ba42f74a373f2d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 564,
+    "name": "Ishida, Uryuu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/139189.jpg?s=c45c92f3d197dbbe891cfd266f487c2f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 5,
+    "name": "Kurosaki, Ichigo",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/512788.jpg?s=55ff462576b32a74758448436f35dcbb",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 906,
+    "name": "Abarai, Renji",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/171877.jpg?s=e4fb4773c11884cd26a4eaed44ca3f6d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 122383,
+    "name": "Accutrone, Robert",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/494372.jpg?s=1f644b394222e15e1e09dde829813b72",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 236447,
+    "name": "Adnyeus",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/526006.jpg?s=11961ecd30db3b8b22b19a2f531792a1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2340,
+    "name": "Aikawa, Love",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/57259.jpg?s=65637e7c842c09ba1e8358d6e583c92b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 16042,
+    "name": "Aivirrne, Loly",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/56720.jpg?s=f68978cf8a547f9cef71268ebfc0fd32",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1086,
+    "name": "Aizen, Sousuke",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/73909.jpg?s=1a450d31fd432b46314048dbb3915fc4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22892,
+    "name": "Akon",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/103034.jpg?s=a78454331048761184f678fd8d0bdb35",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 17960,
+    "name": "Apacci, Emilou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/39319.jpg?s=b946c510eb79f414fefbe1c86d4d5498",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 3911,
+    "name": "Ayasegawa, Yumichika",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/33228.jpg?s=91e220ec6468364aa25b9a7ea23bdb8f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22388,
+    "name": "Ayon",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/103021.jpg?s=c70feed7ba19f9418dee2a913520bd3a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 64511,
+    "name": "Basterbine, Bambietta",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/482240.jpg?s=d94530ac10cbc765263cb5c690d023b8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 67649,
+    "name": "Berci, Driscoll",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/502511.jpg?s=c7512d038632420fdb7da5b298335e67",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 87083,
+    "name": "BG9",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/496720.jpg?s=609e7465c52b4ede35f104fdcb2b5f00",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 8021,
+    "name": "Birstanne, Dondochakka",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/79549.jpg?s=76e32e14bfef612ac10338b5ef309c8c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72097,
+    "name": "Black, Bazzard",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/290662.jpg?s=ca4b1b163b864f994e10f9f4965045d4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 87081,
+    "name": "De Masculine, Mask",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504249.jpg?s=04cab17d9c7800631516c72fe97f27f8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 73443,
+    "name": "Domino, Shaz",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/502509.jpg?s=a09a0099bf7bbc482e7c67a17203b84a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 87079,
+    "name": "Du, Cang",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/502508.jpg?s=8e82abe703ea622ad6a21a355bf8094a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 56793,
+    "name": "Ebern, Asguiaro",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/493386.jpg?s=37ba74adf0d5905510c48993494616ec",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22882,
+    "name": "Enjouji, Tatsufusa",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/103061.jpg?s=632b41892cc2128dd2c60d7d7a65f82d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 9362,
+    "name": "Fishbone D",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/103065.jpg?s=14797f28087b2108fdf64d494cd03b20",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 60533,
+    "name": "Friegen, Luders",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/494648.jpg?s=d330dbf55d367ce925469bf74d9f7f0f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 77457,
+    "name": "Gabrielli, Berenice",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/493388.jpg?s=07ae104c4f7e30e562fa07574b5c76f6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 3210,
+    "name": "Gilga, Nnoitra",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/55463.jpg?s=d128763fb4d33f5d34603c5288247d85",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 38471,
+    "name": "Ginjou, Kuugo",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/158879.jpg?s=a3ba90186a997e5d790b86bdb52a08af",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72105,
+    "name": "Gori, Taketsuna",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/493383.jpg?s=29a963e3439f3373f9207fb416c2c9ea",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 7345,
+    "name": "Grand Fisher",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/103060.jpg?s=896cd281114d3619d34cbc6a10583479",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 7426,
+    "name": "Guatiche, Pesche",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/79547.jpg?s=f5092a77e463e2787dbbed4236a4b838",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72099,
+    "name": "Guizbatt, Jerome",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/493387.jpg?s=efd7cb63432bd5fdef7999409b2aa9f4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 3217,
+    "name": "Harribel, Tier",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/529316.jpg?s=27c8aa4913ba33f6cf99b3bec9218c14",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 71949,
+    "name": "Haschwalth, Jugram",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/290179.jpg?s=641bdcbfe184900f26dfe2f15855814f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 230014,
+    "name": "Hashihara, Hasuka",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/511906.jpg?s=1800283545c3bb8b9417c5eee87ab122",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 74357,
+    "name": "Hikifune, Kirio",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/495171.jpg?s=612672a3d76f99c8ed97fb8b29e7c8a6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1092,
+    "name": "Hinamori, Momo",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/33231.jpg?s=03dbd7555461218708c86fd953d633e6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1084,
+    "name": "Hirako, Shinji",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/72979.jpg?s=218ab8454b5512a2d97ea5bcace550ce",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1095,
+    "name": "Hisagi, Shuuhei",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/76390.jpg?s=a82209807ae4ef998e7b4399200d8908",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 245,
+    "name": "Hitsugaya, Toushirou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/36579.jpg?s=fec37a5d08dbe1f8e806d3f9ce9d7f4f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 221715,
+    "name": "Hiuchigashima, Mera",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/496598.jpg?s=da34c1de3b84a8f90aec70b496566179",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22890,
+    "name": "Hiyosu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/536707.jpg?s=b0aa7bd8f3c223fe917521392207ed58",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 74359,
+    "name": "Hyousube, Ichibei",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/502506.jpg?s=5b1d285c0cb1fe06116cc915b3d4ae08",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 18461,
+    "name": "Iba, Tetsuzaemon",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/51363.jpg?s=3475a3f7c6cbea73148084a711636dae",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1087,
+    "name": "Ichimaru, Gin",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/98077.jpg?s=1c0bf6a253287b0c1ed77d8d9530cd42",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22875,
+    "name": "Iemura, Yasochika",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/56728.jpg?s=47a6eddf043015c92ea2385331adfeee",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 18465,
+    "name": "Ikkanzaka, Jidanbou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/50724.jpg?s=056ace8839e7aa9e11cc1f4a6d13be6f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 7,
+    "name": "Inoue, Orihime",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/505076.jpg?s=bf526e705495c0698997a2f8b9e3d6f9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 27739,
+    "name": "Inoue, Sora",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/103057.jpg?s=662010f93962277acad40777980bbe60",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 3095,
+    "name": "Ise, Nanao",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/33233.jpg?s=aaf516f7bb2edc8c9250bd96f329e879",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 230037,
+    "name": "Ishida, Izumi",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/512014.jpg?s=412fcf3fbb80f856b703eb024f81e954",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22844,
+    "name": "Ishida, Souken",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103056.jpg?s=2bd4bcec8b306dde7a40cf0ffb80f74b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1083,
+    "name": "Ishida, Ryuuken",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/141837.jpg?s=b7019c17b82a7ef5515832609c4a5551",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248131,
+    "name": "Izuhara, Kinroku",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547991.jpg?s=7e38b84f08e204a5c95495789a26c02e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1080,
+    "name": "Jaegerjaquez, Grimmjow",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/529459.jpg?s=b984373cc69a540db053b3516cf46dcc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 65091,
+    "name": "Kajoumaru, Hidetomo",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/493385.jpg?s=7e554d0a9f9bde8d05d4d79cd6954593",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 85235,
+    "name": "Katagiri, Kanae",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/497675.jpg?s=ca392b1b3c31cc88d1940e91b7621e45",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72107,
+    "name": "Katakura, Asuka",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/502513.jpg?s=fde69d6029a7a44d4f550cb34a8f8b7f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 228348,
+    "name": "Katori, Batsu'unsai",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/548431.jpg?s=cf31cfe44808a9fac4102d5fd3911d59",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 221716,
+    "name": "Kazuhiro",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/496596.jpg?s=842c8debaa2cab8fafbb43c3cccbbe3b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 221718,
+    "name": "Kazuo",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/496597.jpg?s=cf1ec64f29b361b7630a2fb5747f60d6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 221717,
+    "name": "Kiganjou, Kenpachi",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497677.jpg?s=1cb189a3b01b74ab777c3e18b67e184a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1093,
+    "name": "Kira, Izuru",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/33234.jpg?s=9d8f4700de0ef47b440523c48cdf8ea9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 75068,
+    "name": "Kirinji, Tenjiirou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/495174.jpg?s=093446288f204321caaff96d11dc5a6c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248142,
+    "name": "Kleich, Hubert Alexander",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/548002.jpg?s=2eae15b6727172f1732829e661dfb8b7",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 4298,
+    "name": "Komamura, Sajin",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/59028.jpg?s=4cd3017d94232b3480023fb0d230952e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1089,
+    "name": "Kon",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/102740.jpg?s=f91b0f029056ba25d9aa2dbdc088ce92",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 5176,
+    "name": "Kotetsu, Kiyone",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/85347.jpg?s=e9594c7af2cac6f8f83274e810f03181",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 7059,
+    "name": "Kotetsu, Isane",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/33236.jpg?s=9546bafbe41e2f9c520474c5ee65233c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22846,
+    "name": "Kotsubaki, Sentarou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/56712.jpg?s=144cb21c7db99a8500a6d0ec5c7e82e2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 6,
+    "name": "Kuchiki, Rukia",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/78215.jpg?s=2a0f7f516f3e5b213833e9f9a9de4a51",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 907,
+    "name": "Kuchiki, Byakuya",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/100098.jpg?s=c184bfa12ef0b29cc48d31e986d011ad",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 28723,
+    "name": "Kuchiki, Kouga",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/73975.jpg?s=f5d9bbd5b0bc7c402f014470ca95b850",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248136,
+    "name": "Kumoi, Entetsu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/552032.jpg?s=2633e478233fbf0c9b94d90f7a275186",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2342,
+    "name": "Kuna, Mashiro",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/45940.jpg?s=145a7f4c8ecbd534bdfd409dd71ba772",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 230344,
+    "name": "Kuna, Niko",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/513700.jpg?s=a91c944729bab2d0496efa0f348f4454",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 4018,
+    "name": "Kurosaki, Karin",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/158885.jpg?s=f18b6557e88d81a1548dccae7a82a202",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1096,
+    "name": "Kurosaki, Yuzu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/33289.jpg?s=2407eb00b96b3a7d3f15931908f21309",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2553,
+    "name": "Kurosaki, Isshin",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/97168.jpg?s=894c36b2c23f0b3ce6690d67133f4701",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22849,
+    "name": "Kurosaki, Masaki",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/489580.jpg?s=eda6946a6ce6f1a080287b042ea7bbf4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 3100,
+    "name": "Kurotsuchi, Nemu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/33239.jpg?s=de1a35debfb5cea80425f5238a46198f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1168,
+    "name": "Kurotsuchi, Mayuri",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/73295.jpg?s=e85fc128d238381c72abffa387bfabef",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 9509,
+    "name": "Kurumadani, Zennosuke",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/55942.jpg?s=b4c2cb91b75f9b81c41948f309df43d4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 910,
+    "name": "Kusajishi, Yachiru",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/85348.jpg?s=e7b37282b1de3e3d6072176c475787af",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 38568,
+    "name": "Kutsuzawa, Giriko",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/136993.jpg?s=54b025ee12effdc1429f6113099a309e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1088,
+    "name": "Kyouraku, Shunsui Jirou Sakuranosuke",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33242.jpg?s=7445a3128d9b5e325c2c49b7a7e6ab92",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248143,
+    "name": "Lallau, Argola",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/548003.jpg?s=2db210112c053cd7bee3234a94bb31a3",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 6131,
+    "name": "Leroux, Zommari",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/55944.jpg?s=04293e153b4a1ca05b36d28c81213d1c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 71347,
+    "name": "Lloyd, Royd",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/516933.jpg?s=878538825f2fc4a7395c60efb7590bdc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 220454,
+    "name": "Lloyd, Loyd",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/494091.jpg?s=5f731524f91d18de2f39c4040969e1d3",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1151,
+    "name": "Madarame, Ikkaku",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33243.jpg?s=3fe358bed3801d0465927c401c5004e2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 57687,
+    "name": "Madarame, Shino",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/484953.jpg?s=903393640c030a473818e355026fc293",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 22944,
+    "name": "Mallia, Menoly",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/56716.jpg?s=f256729368b34fdc3f9e62685dbde0c3",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 904,
+    "name": "Matsumoto, Rangiku",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/520193.jpg?s=7230b409bd7466d6f38d280000edce09",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 90107,
+    "name": "McAllon, Meninas",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/255565.jpg?s=9305e379befcb3d105090002f9d989e9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 21700,
+    "name": "Mila Rose, Franceska",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/51125.jpg?s=baffc331754223c1b1b63d2a25fa3792",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2344,
+    "name": "Muguruma, Kensei",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/45938.jpg?s=8a002399dcc4ce36d37cdf75bccbcfc8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 64665,
+    "name": "Najahkoop, NaNaNa",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/502510.jpg?s=f572788a2b1aae2fef1c43633fa040ad",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 87085,
+    "name": "Nakk Le Vaar, Askin",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/516662.jpg?s=ac5349597d98c4f08ef4d6694eda9f91",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 75654,
+    "name": "Nimaiya, Ouetsu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/396639.jpg?s=3ff5b7bb4e763ffd9884a1ad8b8e1773",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 223713,
+    "name": "Nomino, Nonomi",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/512193.jpg?s=d21573c1ffd61a826d98f9d222bc11d9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248126,
+    "name": "Nozarashi",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547986.jpg?s=3273220938c3784641b2292d58c5f84b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 64663,
+    "name": "Nödt, Äs",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/493744.jpg?s=dc2c777e0eed753dbfe16b39a5b0ae9d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248133,
+    "name": "Obana, Danjirou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/552030.jpg?s=8465c8c3fd4780a9201cc860adb18c39",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 222568,
+    "name": "Ogura, Kanan",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547542.jpg?s=c7ce1e992bf573b49fe5b6f30ba1fd24",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72101,
+    "name": "Okikiba, Genshirou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/547339.jpg?s=3670451e65ff7716cff56fb13de29342",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 5728,
+    "name": "Oomaeda, Marechiyo",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/33244.jpg?s=02982b89335a9043d52d3cbc8ba9040e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 230345,
+    "name": "Oomaeda, Mareyo",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517386.jpg?s=b0dbf548059b3664e40e321a7e3fee7a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 60535,
+    "name": "Opie, Quilge",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/290592.jpg?s=ac2955f2080769fb90b5214c67106b8a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2341,
+    "name": "Otoribashi, Roujuurou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/40966.jpg?s=c49c176083d920a8f437dba8c6662419",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248138,
+    "name": "Outogawa, Furuoki",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547998.jpg?s=d5498cabd58f24a9688b6659420329fe",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 575,
+    "name": "Sado, Yasutora",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/102739.jpg?s=62a1f21a246934b22b8e46a8db7259bf",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 234873,
+    "name": "Saitou, Furoufushi",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/522521.jpg?s=ca2aa43c134bd96895c907a42c172c8e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248140,
+    "name": "Sakahone, Saizou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/548000.jpg?s=0d3a1b1a074b63862327c0f84ec1d8b5",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1158,
+    "name": "Sarugaki, Hiyori",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/72982.jpg?s=1db28c6a4c237f92b41fb5984f0b0257",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 5727,
+    "name": "Sasakibe Choujirou, Tadaoki",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/68554.jpg?s=d6d00e58c75fa55e54d1cd249b04bec1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1091,
+    "name": "Shiba, Ganju",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/61005.jpg?s=1e4c23eb649bf8d4c65dd1f0d92341db",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1090,
+    "name": "Shiba, Kuukaku",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/33245.jpg?s=145d97b3688ca57b2ad743ddb6254ae2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248134,
+    "name": "Shigyou, Nobutsuna",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547994.jpg?s=2e3d6851627f92955bdec27ec3497f96",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248130,
+    "name": "Shihouin, Chika",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547990.jpg?s=c88c3f6e24798e2d25bce28ead6add1f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248132,
+    "name": "Shijima, Chigiri",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/552029.jpg?s=0ed40d989f06606089b3b7f899e62600",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 74361,
+    "name": "Shutara, Senjumaru",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/571129.jpg?s=eb758aef0849fb1c98df473cfc87a9f6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 905,
+    "name": "Soi Fon",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/76136.jpg?s=eca1cd3882ffc6fa556b7001ef0b15b9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 17150,
+    "name": "Sung-Sun, Cyan",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/36674.jpg?s=ba0ab001b4b2db94582b688b07b9c942",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 72103,
+    "name": "Togakushi, Rikuu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/493384.jpg?s=b3bcd2d4791807c7246138f22970d49b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248124,
+    "name": "Tonokawa, Tokie",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547984.jpg?s=1b23d184cca8ab05f3f84ece3c6691d7",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 222569,
+    "name": "Torajima, Shiho",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547341.jpg?s=33f2acc8630e6f8bb88dc56287b09658",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 1085,
+    "name": "Tousen, Kaname",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33249.jpg?s=69f2b58cff6bb604341f0038f262c3c4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 15457,
+    "name": "Tsubokura, Rin",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/40874.jpg?s=2baf5ac5ac3a785e497e5c7aa0244be0",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248125,
+    "name": "Tsuchimiya, Tsumiko",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547985.jpg?s=0d42e2e0da19b052c281a1f0900b3908",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 41052,
+    "name": "Tsukishima, Shuukurou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/139191.jpg?s=1d4b844864cd4651d2255d18a018d82b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 4730,
+    "name": "Tu Oderschvank, Nelliel",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/531419.jpg?s=af77808a2bb2a63ae27f46d7fd290992",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2682,
+    "name": "Ukitake, Juushirou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/33251.jpg?s=49a8015bf5e4ef1967ba4df44ad7771e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 48557,
+    "name": "Unagiya, Ikumi",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/363308.jpg?s=1dfca2e46a7c34c46cb14ce3c279ab39",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 3845,
+    "name": "Unohana, Retsu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/33252.jpg?s=913cf51c6745995193ac5befbee94570",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 210,
+    "name": "Urahara, Kisuke",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/149491.jpg?s=0f14e8fbbf14dde646817cb8552e8908",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2345,
+    "name": "Ushouda, Hachigen",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/94494.jpg?s=d5c58775c0382049ec6593a206acf8e4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 114961,
+    "name": "Waccabrada, PePe",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/547340.jpg?s=c3a6cb4b9eba555dd71bcd9f5e62a4f7",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248128,
+    "name": "White",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547987.jpg?s=7d07f7944e600ac8b543191530cbca8e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 230346,
+    "name": "Wolfman Clan Elder",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/523483.jpg?s=deb0f1d4d1581a388c7341029f2670b9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2343,
+    "name": "Yadoumaru, Lisa",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/45939.jpg?s=8292fdc10684ed907c8358bc4a1c98ce",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 2161,
+    "name": "Yamada, Hanatarou",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/68624.jpg?s=17af2c04b899710fe7fc6a6d25932981",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 5726,
+    "name": "Yamamoto-Genryuusai, Shigekuni",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/33294.jpg?s=91124999bf07aecce422148f97ac6291",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 68537,
+    "name": "Yhwach",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/396645.jpg?s=cb88dac43b0974aa1af7ed51e731acd9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 57685,
+    "name": "Yuki, Ryuunosuke",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/493382.jpg?s=11009b40571edaa028483f21364b00d1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 911,
+    "name": "Zangetsu",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/33260.jpg?s=c31ce727ee00010ae64cd28947f4ddc7",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 909,
+    "name": "Zaraki, Kenpachi",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/150265.jpg?s=a7bda35cc8518a68480cd334baa5e12a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248141,
+    "name": "Zeidritz, Johann",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/548001.jpg?s=2c6882f9ed21078e1da863fa96d5f53e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 248139,
+    "name": "Zenjouji, Uhin",
+    "anime": "Bleach: Thousand-Year Blood War",
+    "anime_id": 41467,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/552033.jpg?s=04db08b15ad582751a0b5463f87a5be3",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 117921,
+    "name": "All Might",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/310613.jpg?s=2bb273c38247c38003176367645e6488",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 117911,
+    "name": "Bakugou, Katsuki",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/299406.jpg?s=7ce7f3b38b2ebe0fd31b3a313fa14fe9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 117913,
+    "name": "Iida, Tenya",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/299417.jpg?s=ae97d822ef7c4cdbe392766389c3f5f1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 117909,
+    "name": "Midoriya, Izuku",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/299404.jpg?s=6a448d3702c1d3185ed7ad8f0b8484f0",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 118489,
+    "name": "Todoroki, Shouto",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/332527.jpg?s=575a733f7d22b2b94a12194e051932de",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 117917,
+    "name": "Uraraka, Ochako",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/299421.jpg?s=5c7499bacd3f2c8f4238253a5877c757",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149923,
+    "name": "Airjet",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/591167.jpg?s=aac29bb2fbabbe59b3ad37fb60737b2e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 117915,
+    "name": "Aizawa, Shouta",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/301855.jpg?s=30bde8aa7f840805f22ab894a1eca521",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 132691,
+    "name": "Akaguro, Chizome",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/331442.jpg?s=cc986fdbae5d5bee3508c4619043c1d1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141358,
+    "name": "All For One",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/370136.jpg?s=9a8bbc134d9c1719cacb71c58d863e72",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 117919,
+    "name": "Aoyama, Yuuga",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300752.jpg?s=9d07d0a55f0a3237206588553b8bf1d1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 125318,
+    "name": "Ashido, Mina",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/329525.jpg?s=9d19261a645b157c6533a9c883b4a2df",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 119209,
+    "name": "Asui, Tsuyu",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/299409.jpg?s=007a26c2a56f15a578815945d1bb2d53",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149901,
+    "name": "Awase, Yousetsu",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551136.jpg?s=74191c3f2782ca0fec0175807f268965",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149899,
+    "name": "Bondo, Kojirou",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/329057.jpg?s=5354a45c9bed9288e08367f88274d3e9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 139262,
+    "name": "Dabi",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/454749.jpg?s=2adee85c26f3d880c5baebf72c5e5056",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 139044,
+    "name": "Desutegoro",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/301656.jpg?s=46bf63ab2f008153fa04a581629778ff",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 162062,
+    "name": "Doctor",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358225.jpg?s=070d0a1da10361b48fbd9221bc044c6d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141627,
+    "name": "Ectoplasm",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/331374.jpg?s=008f85b12e070b86d3da6144c2e37c1b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 153534,
+    "name": "Female Reporter",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/336359.jpg?s=172bbefb9ff8f9dd129fb8b4ec390aaf",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 152653,
+    "name": "Fourth Kind",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/334177.jpg?s=ece42c059173e9a144c5ffbe287922eb",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149908,
+    "name": "Fukidashi, Manga",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/329063.jpg?s=ad915795bd6df2d7ca1d0bb902e441cf",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149911,
+    "name": "Fukukado, Emi",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/359972.jpg?s=d587c839c06e2de9f830f3816dc01d08",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 153537,
+    "name": "Giran",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/336362.jpg?s=ed4012a7e082bc393a326a5144ef811d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 152110,
+    "name": "Gunhead",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/333027.jpg?s=21b3f97e69c77687a1e6477b919777e1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 133730,
+    "name": "Hagakure, Tooru",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/301045.jpg?s=cc99e993a37c8b98554a18f81c26b538",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149897,
+    "name": "Hakamada, Tsunagu",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/334175.jpg?s=6a4fa953896de35d8c6b2add40114552",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 126700,
+    "name": "Hatsume, Mei",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/329048.jpg?s=535a140dd02f6863c19dd4d3ba099c6b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149898,
+    "name": "Honenuki, Juuzou",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/331997.jpg?s=a13b32758b0fcdeaf0fbd1cf9acab9d0",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 153643,
+    "name": "Iguchi, Shuuichi",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/340998.jpg?s=b043a9c5d8ab06747a328dc6c03650d9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141621,
+    "name": "Iida, Tensei",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/340999.jpg?s=0d2b2496bc900ea034e59a00b56cadb2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 153755,
+    "name": "Innsmouth",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/337016.jpg?s=12d7d94d5985e7e22ab2abfa10d6b11c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149895,
+    "name": "Inui, Ryou",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/410372.jpg?s=4ff3961ae7b2813595dbc03f6ca6cc2a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 121737,
+    "name": "Ishiyama, Ken",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/333078.jpg?s=daf44d725c55e25c7ffbf6547bdcab53",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 138638,
+    "name": "Jirou, Kyouka",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300745.jpg?s=c0e7c66c088b06ea9d3806ce852e84f4",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149905,
+    "name": "Kaibara, Sen",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/329058.jpg?s=577a55ec3f0e92a0fa554b9dacce9894",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149907,
+    "name": "Kamakiri, Togaru",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/329066.jpg?s=45bb4ca412b18bb2bf6fa2b6c2a6fe8e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149896,
+    "name": "Kamihara, Shinya",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/340831.jpg?s=9ff46d40503fdc44f82864d7ff17cd81",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 118657,
+    "name": "Kaminari, Denki",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/329527.jpg?s=bdd623918f5fa850d8f2e877318a4a0b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141629,
+    "name": "Kan, Sekijirou",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/326355.jpg?s=2d5694f827c0dc22ea9c9774ce69f914",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141593,
+    "name": "Kayama, Nemuri",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/366576.jpg?s=ef9b62fe75f8744d82dc6b206d3e33fb",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141592,
+    "name": "Kendou, Itsuka",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/366577.jpg?s=f2158862a269c0295ff07168a7f897ad",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 118487,
+    "name": "Kirishima, Eijirou",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/329529.jpg?s=cbfca4fce697447408c68a94d519b1b0",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141595,
+    "name": "Kodai, Yui",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/329069.jpg?s=e346e1f871055a5acb8f8cf7e890dd26",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141600,
+    "name": "Komori, Kinoko",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/329067.jpg?s=39127b0d7ae4bffdf918788e0a0c5088",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 138886,
+    "name": "Kouda, Kouji",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/301044.jpg?s=b41351f86e128d6086aa27f93bc94dbe",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 256148,
+    "name": "Kouda's Mother",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/562772.jpg?s=8064702d0b72a12d38cd2867729b3163",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 140809,
+    "name": "Kurogiri",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/333082.jpg?s=de23c1013cf7e99bb13844aa120ae158",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149906,
+    "name": "Kuroiro, Shihai",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/329070.jpg?s=b0c957158d1a3750a3d1b87746053292",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 142023,
+    "name": "Maijima, Higari",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/359964.jpg?s=dbc3bf170446fa606e01ec8016735769",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 139572,
+    "name": "Midoriya, Inko",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/301940.jpg?s=0c9bd5d7f899ceb146caeb1b5ba1ce14",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 119521,
+    "name": "Mineta, Minoru",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/299413.jpg?s=741bc5ed3c8c36569aa514e7a7addec8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 174416,
+    "name": "Miyagi, Daikaku",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/390974.jpg?s=a4825e9c02c7f452b753a37188174a56",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 151548,
+    "name": "Mizushima, Masaki",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/359962.jpg?s=9e9f401c0a688bf27c2faeed7a0e67a5",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 125092,
+    "name": "Monoma, Neito",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/338559.jpg?s=5edf4fd0f502678acdac862679cb6149",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 153642,
+    "name": "Mustard",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361224.jpg?s=54f7ae16a9c3db9d14efc07c9bf2a7d6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 152786,
+    "name": "Native",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/361352.jpg?s=c138816ed52e0d82489814871925370a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 140084,
+    "name": "Nezu",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/333081.jpg?s=9fa8fc86b6a27cd8cc68f9e2e39d3610",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 139043,
+    "name": "Nishiya, Shinji",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/301653.jpg?s=9dacc3b0620370d2481ea656a213e39b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 129827,
+    "name": "Noumu",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/305706.jpg?s=431596169beb4c541533a05fb017acb2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 151273,
+    "name": "Ochako's Father",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/332478.jpg?s=61db21df0cfb5e9b7e519d096fbd58fd",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 151274,
+    "name": "Ochako's Mother",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/332480.jpg?s=d2ea1a4f9b8d1e2f245117ee21e23d5b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 138883,
+    "name": "Ojiro, Mashirao",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/329531.jpg?s=9b030ce4a029fcaf5f7061a8068f62cb",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149903,
+    "name": "Rin, Hiryuu",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/329068.jpg?s=40cb7bfa0c48a1c1adb2e9d4a8c7a125",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 138885,
+    "name": "Satou, Rikidou",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/301040.jpg?s=c035cf23d1be7d7ffe2de95421b1506b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 153719,
+    "name": "Selkie",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/337018.jpg?s=d8e8763c040c0eaba8d429236dde739c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 138884,
+    "name": "Sero, Hanta",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/301034.jpg?s=9c53e5d0b43a194eafe90943baec6d10",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 122103,
+    "name": "Shigaraki, Tomura",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/272139.jpg?s=ee7d051f5ff04bd4fe6830e0d268cb10",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 125935,
+    "name": "Shinsou, Hitoshi",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/398855.jpg?s=fb39173e1045f320c8425d0bcf1e4c9b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141594,
+    "name": "Shiozaki, Ibara",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/341139.jpg?s=276bdd519658f6dcfa10c8d20501236b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149904,
+    "name": "Shishida, Juurouta",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/329055.jpg?s=76f95928bd8662950303f1a49098832d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149900,
+    "name": "Shouda, Nirengeki",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/329061.jpg?s=2ed9a4b8b1a863f10211785de1be446b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 138636,
+    "name": "Shouji, Mezou",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300743.jpg?s=befe73757260a13762736dbb49a0e177",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 140045,
+    "name": "Shuuzenji, Chiyo",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/333080.jpg?s=d737742a6e5c6ad3bc1c3ddba6c4dfa9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 153718,
+    "name": "Sirius",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/337017.jpg?s=8b57595642fcc4a266de4e83ed805bc1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141626,
+    "name": "Snipe",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/517346.jpg?s=89a19d192c9d3ecc49f6631376621454",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 139042,
+    "name": "Takeyama, Yuu",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/301652.jpg?s=3caf80080ec5cc1f183ea957607085fb",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 142022,
+    "name": "Tamagawa, Sansa",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/589323.jpg?s=b068abc388b7f4dabd3c3f7cbcfc8bfc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 214709,
+    "name": "Tenya's Mother",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/482871.jpg?s=b4f1e9be7700f5c0ccfcbc38023dc9f1",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 147900,
+    "name": "Tetsutetsu, Tetsutetsu",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/329049.jpg?s=b5ec350e588653f85f72bfe166e0c1c8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141179,
+    "name": "Thirteen",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/333084.jpg?s=092ed0eb7997393d0852acd05db826ee",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141624,
+    "name": "Todoroki, Enji",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/414269.jpg?s=50d7c23bab46581a7c204622a2405db9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141605,
+    "name": "Todoroki, Fuyumi",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/332477.jpg?s=eef7d91173b4dc3272be11c2a7fdea2d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 151276,
+    "name": "Todoroki, Rei",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/332472.jpg?s=051d946bf147efa56497fc5a54e3dd0f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 135879,
+    "name": "Toga, Himiko",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/485281.jpg?s=6ac12e3a74c7c7603ddf524672c378b2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141601,
+    "name": "Tokage, Setsuna",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/329064.jpg?s=e672e89c734b1ec75ddce54ed7ef3aaf",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 129826,
+    "name": "Tokoyami, Fumikage",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/299402.jpg?s=d73e716fbb2763b3ba1a77289939bf12",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141628,
+    "name": "Torino, Sorahiko",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/334187.jpg?s=41843e4e790f7268a38258a0ecc147ae",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 149902,
+    "name": "Tsuburaba, Kousei",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/329059.jpg?s=1a2a97a8a146be2f704cc18d8d4463db",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 142021,
+    "name": "Tsukauchi, Naomasa",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/584633.jpg?s=f5c71cf137032221b0f8832a53a94b8e",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141599,
+    "name": "Tsunotori, Pony",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/329065.jpg?s=edd3bd690842e241ce1f188565f353be",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 153535,
+    "name": "Tsuragamae, Kenji",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/337020.jpg?s=22c537fee08292e5bca397539a8e7779",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 174412,
+    "name": "Ujiko, Daruma",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/416224.jpg?s=20d027c8234f791401ed5d8636ecbed0",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 152654,
+    "name": "Uwabami",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/334179.jpg?s=42c111dcc649efd49c2b346f6502266f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 139041,
+    "name": "Yamada, Hizashi",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/301650.jpg?s=1c11c5030e2f9c76e778081a463dba39",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141597,
+    "name": "Yanagi, Reiko",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/329056.jpg?s=0e5ee46140015e76b707c6b36e97876c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 119321,
+    "name": "Yaoyorozu, Momo",
+    "anime": "My Hero Academia Season 2",
+    "anime_id": 33486,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/562316.jpg?s=bd0f31951d784f77f2d5b78e568b6115",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 141354,
+    "name": "Evergarden, Violet",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/345616.jpg?s=3e82e3a6e4bd2efe2336746f9fe70bfb",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159040,
+    "name": "Abelfreyja Drossel, Charlotte",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/350554.jpg?s=f224178acf2bf5a68bb92140df1f7814",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159039,
+    "name": "Alberta",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/350549.jpg?s=d080220b3c540cf3d64427ab7f1a4813",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159038,
+    "name": "Baldur Flugel, Damian",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/350548.jpg?s=9dc4cb3492afa7241d65c6b6c58e873a",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158696,
+    "name": "Bar Owner",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/349710.jpg?s=eefcc3c874ebf3265145f6159b6ea673",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 152273,
+    "name": "Baudelaire, Cattleya",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/494253.jpg?s=678c46554a8ed39e7f0a0e72ddff9007",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 152272,
+    "name": "Blue, Benedict",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/494475.jpg?s=70c6cf9a19377bb80aac395e442fb59c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158277,
+    "name": "Bougainvillea, Dietfried",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/348991.jpg?s=21ab7ead00d87dca7b8669433c4a8ca8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 152271,
+    "name": "Bougainvillea, Gilbert",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/409286.jpg?s=f7f6a0f36f771c0f306b9644cbce34d2",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158268,
+    "name": "Bridget",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/352847.jpg?s=dd43f3cb2cc082ecb1f9465ef54cca06",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160420,
+    "name": "Brigadier General Merkulov",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/354338.jpg?s=c6469f7636e9bdc29c102f18a0f7e35c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 155802,
+    "name": "Brown, Erica",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/494474.jpg?s=1d8ba179219abb9ec252d6774fcaeb07",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158777,
+    "name": "Cannary, Father",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/349998.jpg?s=91112635eb92e8fa44f5cf9c1e0b088d",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158778,
+    "name": "Cannary, Uncle",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/350065.jpg?s=6498ddc9c8bf05e59e0da337ec3bbf90",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158781,
+    "name": "Cannary, Mother",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/349999.jpg?s=6ae74577192e93ca27ef320067166705",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158779,
+    "name": "Cannary, Aunt",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/368355.jpg?s=3a19b2ed83304cdcc203b26bdf739b88",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158780,
+    "name": "Cannary, Nephew",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/451129.jpg?s=8aa9b1f72c068faec435a0b661aa9dd9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 155803,
+    "name": "Cannary, Iris",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/494224.jpg?s=73b101d0073a0bac93f37ba115d29183",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158542,
+    "name": "Conoway, Iberis",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/349386.jpg?s=62aa4987c67643975f4287115cbbaca9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160421,
+    "name": "Coster, Yale",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/354339.jpg?s=2651e72ca32de5acd1606a7f7b0818d9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159943,
+    "name": "Eris",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/353056.jpg?s=8f9c78f732d81dc137d95bf14fa56d84",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 157996,
+    "name": "Evergarden, Tiffany",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/348992.jpg?s=25302b6d409aaa54339f69f86b06d928",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160432,
+    "name": "Field, Mother",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/450815.jpg?s=91109a139e2587f1d689e5f933e19961",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160134,
+    "name": "Field, Aiden",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/355712.jpg?s=7d8622f120a8e4e50fdd4e739dcfa95b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 152270,
+    "name": "Hodgins, Claudia",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/494441.jpg?s=9b07c743259cf9d6aaf148395e80e37f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160431,
+    "name": "Isidor",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/354345.jpg?s=a06c6803a59e9edace3a5a4adad29131",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159231,
+    "name": "Le Verrier",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/351193.jpg?s=433ab2879c51bdd9e9fe1b8a1afe49dc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158225,
+    "name": "Lilian",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/368357.jpg?s=94484a7d9c9531e445b8e6f17254c73f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159916,
+    "name": "Magnolia, Clara",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/356874.jpg?s=9e92167745af9ca6ddc92a0b482dcbf8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159915,
+    "name": "Magnolia, Ann",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/356873.jpg?s=b56d23d203f0e04239f37f7fa0c70769",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158534,
+    "name": "Male Client",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/592825.jpg?s=9e405316035cb1d01118be89f8aa7442",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160422,
+    "name": "Maria",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/354340.jpg?s=55d81e0f8edc2e55d2c2940c43d02928",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158541,
+    "name": "Marlborough, Spencer",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/349385.jpg?s=f6ef623dfeced34a3800b77d1c26b3e6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158540,
+    "name": "Marlborough, Luculia",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/349384.jpg?s=8be63acf658134d9a469900d22c49642",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 256371,
+    "name": "Mrs. Bougainvillea",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/563279.jpg?s=877b1c050b2dd7967d8c6bec03a11e97",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159048,
+    "name": "Munter, Eckhart",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/350583.jpg?s=42ec2d96dcf7c23fc01f2b699bd36580",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158226,
+    "name": "Nerine",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/368358.jpg?s=850ecd7902c95319ef9513280b493ffc",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160427,
+    "name": "Nicks, Lindzy",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/354344.jpg?s=15cb3ce2a930c3abba0c434dbd0a3df8",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158412,
+    "name": "Oliver",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/368359.jpg?s=913290a1482714f4dc0f940c66fd341b",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158694,
+    "name": "Rhodanthe",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/349707.jpg?s=5d1a7d39a39cae486cbfc0ff7e066599",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158267,
+    "name": "Roland",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/352578.jpg?s=3fcae4374129f86769b6e1f47e86c07c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160424,
+    "name": "Selwyn, Toby",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/368360.jpg?s=83a9bc7a53db5d0c127f5c4347d55fd9",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158776,
+    "name": "Snow, Emonn",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/349997.jpg?s=6c5ed3e88d4c4e7a4d17dfcba41d3c13",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159432,
+    "name": "Stephanotis, Leon",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/351658.jpg?s=2aa05dbdcbf7fb9b02342c3e1a8b48f6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158535,
+    "name": "Subordinate Person",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/406621.jpg?s=e8a6bf41a804b85633174b8231d0c362",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 158543,
+    "name": "Unoa, Bluebell",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/349387.jpg?s=fb2f0ecdd04235b48116ef28a794e7da",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 160423,
+    "name": "Vandal, Illias",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/368361.jpg?s=b90897fd26a2cff6a0c515d36694b27c",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159427,
+    "name": "Webster, Olivia",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/352845.jpg?s=d4a0e93ac4b3ddf408cde23715351a2f",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159426,
+    "name": "Webster, Oscar",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/352846.jpg?s=81d388b5404697c19d41db6b34afc9a6",
+    "favorites": 0,
+    "kakera": 50
+  },
+  {
+    "mal_id": 159230,
+    "name": "Zoenig, Kyle",
+    "anime": "Violet Evergarden",
+    "anime_id": 33352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/352848.jpg?s=8d8dfc678f18b611b94e384408fcb540",
+    "favorites": 0,
+    "kakera": 50
+  }
+]

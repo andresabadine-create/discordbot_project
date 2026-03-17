@@ -4,20 +4,188 @@
       "SOCIAL CREDITS": 0,
       "COMBOIO": [],
       "rolls_used": 0,
-      "last_claim": 1773605635.2744174
+      "last_claim": 1773665387.3729992,
+      "Cols": 2000,
+      "combates": {
+        "vitorias": 0,
+        "derrotas": 0
+      },
+      "last_kakera_char": 4003
     },
     "146729272885772290": {
       "SOCIAL CREDITS": 0,
       "COMBOIO": [],
       "rolls_used": 0,
-      "last_claim": 1773605650.7324612
+      "last_claim": 1773665222.7137823,
+      "Cols": 2000,
+      "combates": {
+        "vitorias": 0,
+        "derrotas": 0
+      },
+      "last_kakera_char": 36828
+    },
+    "368370370983624714": {
+      "Cols": 0,
+      "Equipe": [
+        {
+          "mal_id": 170258,
+          "name": "Forger, Loid",
+          "anime": "Spy x Family",
+          "image_url": "https://cdn.myanimelist.net/images/characters/13/580250.jpg?s=c98a9197f089df9132bc1c657bb6c131",
+          "Cols": 50,
+          "favorites": 0,
+          "genres": [
+            "Action",
+            "Award Winning",
+            "Comedy",
+            "Childcare",
+            "Super Power",
+            "Shounen"
+          ],
+          "stats": {
+            "forca": 33,
+            "inteligencia": 27,
+            "vida": 34,
+            "agilidade": 31
+          }
+        },
+        {
+          "mal_id": 46498,
+          "name": "Kirstein, Jean",
+          "anime": "Attack on Titan Season 3",
+          "image_url": "https://cdn.myanimelist.net/images/characters/14/216893.jpg?s=e0558332ed9959c09ddd0c65e90212e9",
+          "Cols": 50,
+          "favorites": 0,
+          "genres": [
+            "Action",
+            "Drama",
+            "Suspense",
+            "Gore",
+            "Military",
+            "Survival",
+            "Shounen"
+          ],
+          "stats": {
+            "forca": 37,
+            "inteligencia": 29,
+            "vida": 39,
+            "agilidade": 30
+          }
+        },
+        {
+          "mal_id": 2009,
+          "name": "Yamanaka, Ino",
+          "anime": "Naruto",
+          "image_url": "https://cdn.myanimelist.net/images/characters/9/60062.jpg?s=bd8ff387569eebde9eb9af3d2a7feefc",
+          "Cols": 50,
+          "favorites": 0,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Martial Arts",
+            "Shounen"
+          ],
+          "stats": {
+            "forca": 39,
+            "inteligencia": 32,
+            "vida": 37,
+            "agilidade": 40
+          }
+        },
+        {
+          "mal_id": 14,
+          "name": "Uchiha, Itachi",
+          "anime": "Naruto",
+          "image_url": "https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622",
+          "Cols": 50,
+          "favorites": 0,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Martial Arts",
+            "Shounen"
+          ],
+          "stats": {
+            "forca": 37,
+            "inteligencia": 31,
+            "vida": 37,
+            "agilidade": 40
+          }
+        },
+        {
+          "mal_id": 38558,
+          "name": "Tennouji, Yuugo",
+          "anime": "Steins;Gate",
+          "image_url": "https://cdn.myanimelist.net/images/characters/12/125685.jpg?s=e222684eedf202f197b1a0133a153b8a",
+          "Cols": 50,
+          "favorites": 0,
+          "genres": [
+            "Drama",
+            "Sci-Fi",
+            "Suspense",
+            "Psychological",
+            "Time Travel"
+          ],
+          "stats": {
+            "forca": 25,
+            "inteligencia": 43,
+            "vida": 29,
+            "agilidade": 30
+          }
+        }
+      ],
+      "rolls_used": 0,
+      "last_kakera_char": 220773,
+      "last_claim": 1773710951.5688448,
+      "combates": {
+        "vitorias": 0,
+        "derrotas": 0
+      }
+    },
+    "155002960584245248": {
+      "Cols": 0,
+      "Equipe": [
+        {
+          "mal_id": 17553,
+          "name": "Yamashiro, Aoba",
+          "anime": "Naruto",
+          "image_url": "https://cdn.myanimelist.net/images/characters/10/158739.jpg?s=3b4ee6aa8529967c6768e6baf08f97b6",
+          "Cols": 50,
+          "favorites": 0,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Martial Arts",
+            "Shounen"
+          ],
+          "stats": {
+            "forca": 40,
+            "inteligencia": 30,
+            "vida": 36,
+            "agilidade": 37
+          }
+        }
+      ],
+      "rolls_used": 0,
+      "last_claim": 1773686775.6362917
     }
   },
   "guilds": {
     "190159724015124481": {
       "claimed": {
         "38471": 146077493445525505,
-        "904": 146729272885772290
+        "904": 146729272885772290,
+        "118775": 146729272885772290,
+        "13": 146077493445525505,
+        "170258": 368370370983624714,
+        "17553": 155002960584245248,
+        "46498": 368370370983624714,
+        "2009": 368370370983624714,
+        "14": 368370370983624714,
+        "38558": 368370370983624714
       }
     }
   }

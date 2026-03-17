@@ -5,9 +5,10 @@ cogs/profile.py — Perfil do usuário com estatísticas.
 import discord
 from discord.ext import commands
 from database import get_user
+from stats_engine import star_rating
 
-KAKERA_EMOJI = "💲"
-WAIFU_COLOR  = 0xFF69B4
+COL_EMOJI   = "💲"
+WAIFU_COLOR = 0xFF69B4
 
 
 class Profile(commands.Cog):
@@ -16,33 +17,47 @@ class Profile(commands.Cog):
 
     @commands.command(name="profile", aliases=["p", "me"])
     async def profile(self, ctx: commands.Context, member: discord.Member | None = None):
-        """Exibe o perfil completo de um usuárrio."""
-        target = member or ctx.author
-        user   = get_user(target.id)
+        """Exibe o perfil completo de um usuário."""
+        target  = member or ctx.author
+        db_user = get_user(target.id)
 
-        harem        = user.get("Equipe", [])
-        kakera       = user.get("Cols", 0)
-        rolls_used   = user.get("rolls_used", 0)
-        total_chars  = len(harem)
-        total_kakera = sum(c.get("Cols", 0) for c in harem)
+        equipe      = db_user.get("Equipe", [])
+        cols        = db_user.get("Cols", 0)
+        rolls_used  = db_user.get("rolls_used", 0)
+        combates    = db_user.get("combates", {"vitorias": 0, "derrotas": 0})
+        vitorias    = combates.get("vitorias", 0)
+        derrotas    = combates.get("derrotas", 0)
+        total_chars = len(equipe)
+        valor_total = sum(c.get("Cols", 0) for c in equipe)
 
         embed = discord.Embed(
             title=f"📋 Perfil — {target.display_name}",
             color=WAIFU_COLOR,
         )
         embed.set_thumbnail(url=target.display_avatar.url)
-        embed.add_field(name=f"{KAKERA_EMOJI} Cols",     value=f"**{kakera:,}**",      inline=True)
-        embed.add_field(name="💖 Personagens",              value=f"**{total_chars}**",    inline=True)
-        embed.add_field(name="🎲 Rolls feitos",             value=f"**{rolls_used}**",     inline=True)
-        embed.add_field(name=f"{KAKERA_EMOJI} Total na Equipe, value=f'**{total_kakera:}**'", inline=True)
 
-        if harem:
-            top = sorted(harem, key=lambda c: c.get("Col", 0), reverse=True)[:3]
-            top_txt = "\n".join(f"• **{c['name']}** — *{c['anime']}*" for c in top)
-            embed.add_field(name="⭐ Top 3 da Equipe", value=top_txt, inline=False)
+        # ── Stats do jogador ───────────────────────────────────────────────────
+        embed.add_field(name=f"{COL_EMOJI} Cols",       value=f"**{cols:,}**",       inline=True)
+        embed.add_field(name="💖 Personagens",           value=f"**{total_chars}**",  inline=True)
+        embed.add_field(name="🎲 Rolls feitos",          value=f"**{rolls_used}**",   inline=True)
+        embed.add_field(name="⚔️ Vitórias",              value=f"**{vitorias}**",     inline=True)
+        embed.add_field(name="💀 Derrotas",              value=f"**{derrotas}**",     inline=True)
+        embed.add_field(name=f"{COL_EMOJI} Valor Equipe", value=f"**{valor_total:,}**", inline=True)
+
+        # ── Top 3 da equipe ────────────────────────────────────────────────────
+        if equipe:
+            top = sorted(equipe, key=lambda c: sum(c.get("stats", {}).values()), reverse=True)[:3]
+            top_lines = []
+            for c in top:
+                stats    = c.get("stats", {})
+                stars    = star_rating(stats) if stats else "⭐"
+                total_pw = sum(stats.values()) if stats else 0
+                top_lines.append(f"{stars} **{c['name']}** — *{c['anime']}* — ⚡`{total_pw}`")
+            embed.add_field(name="🏅 Top 3 da Equipe (por poder)", value="\n".join(top_lines), inline=False)
             embed.set_image(url=top[0]["image_url"])
 
-        embed.set_footer(text="Use $wa ou $ha para rolar personagens!")
+        wr = round(vitorias / max(1, vitorias + derrotas) * 100) if (vitorias + derrotas) > 0 else 0
+        embed.set_footer(text=f"Win Rate: {wr}% • Use $batalha @alguém para combater!")
         await ctx.send(embed=embed)
 
 

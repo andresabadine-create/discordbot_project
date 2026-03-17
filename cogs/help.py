@@ -1,65 +1,62 @@
-"""
-cogs/help.py — Comando $help customizado.
-"""
-
+"""cogs/help.py"""
 import discord
 from discord.ext import commands
 
-
 class Help(commands.Cog):
-    def __init__(self, bot: commands.Bot):
+    def __init__(self, bot):
         self.bot = bot
 
-    @commands.command(name="help", aliases=["commands"])
-    async def help_cmd(self, ctx: commands.Context):
-        """Lista todos os comandos disponíveiss."""
+    @commands.command(name="ajuda", aliases=["help", "commands"])
+    async def help_cmd(self, ctx):
         embed = discord.Embed(
-            title="📖 Comandos do Bot",
-            description="KIRITAO — Colete personagens de animes e Batalhe entre amigos!\nPrefixos: `$` ou `!`",
+            title="📖 Comandos — KIRITAO",
+            description="Colete personagens, batalhe e ajude a expandir o banco!\nPrefixos: `$` ou `!`",
             color=0xFF69B4,
         )
-        embed.add_field(
-            name="Sistema de Luta",
-            value=(
-                "⚠️⚠️ O Sistema de luta está em desenvolvimento! ⚠️⚠️\n"
-            ),
-            inline=False,
-        )
-        embed.add_field(
-            name="🎲 Rolls",
-            value=(
-                "`$wa` / `$waifu` / `$w` — Rola personagem aleatório (waifu)\n"
-                "`$ha` / `$husbando` / `$h` — Rola personagem aleatório (husbando)\n"
-                "`$lookup <nome>` — Busca um personagem específico no MAL"
-            ),
-            inline=False,
-        )
-        embed.add_field(
-            name="💖 Coleção",
-            value=(
-                "`$team [@usuário]` — Veja sua equipe ou de alguém\n"
-                "`$col [@usuário]` — Veja o saldo de col\n"
-                "`$profile [@usuário]` — Perfil completo"
-            ),
-            inline=False,
-        )
-        embed.add_field(
-            name="⚙️ Admin",
-            value="`$updatecache [N]` — Atualiza cache com N animes (padrão: 5)",
-            inline=False,
-        )
-        embed.add_field(
-            name=f"💲 Sistema Col",
-            value=(
-                "Personagens possuem valor em **col** baseado nos favoritos do MAL.\n"
-                "Clique em 💲 no roll para coletar. Acumule para futuros upgrades!"
-            ),
-            inline=False,
-        )
-        embed.set_footer(text="Cooldown: 3s entre rolls • 15min entre claims")
+        embed.add_field(name="🎲 Rolls", value=(
+            "`$f` / `$femea` — Personagem **feminino** aleatório\n"
+            "`$cu` / `$macho` — Personagem **masculino** aleatório\n"
+            "`$lookup <nome>` — Busca no MAL\n"
+            "*Cooldown: 3s*"
+        ), inline=False)
+        embed.add_field(name="💖 Equipe", value=(
+            "`$team [@user]` — Ver Equipe\n"
+            "`$status <nome>` — Stats RPG do personagem\n"
+            "`$cols [@user]` — Saldo de Cols\n"
+            "`$profile [@user]` — Perfil completo\n"
+            "*Recruit cooldown: 7.5 min*"
+        ), inline=False)
+        embed.add_field(name="⚔️ Batalha", value=(
+            "`$batalha @oponente` — Combate por turnos\n"
+            "`$ranking` — Top vitórias\n"
+            "*Cooldown: 30s*"
+        ), inline=False)
+        embed.add_field(name="🎌 Sugestões", value=(
+            "`$sugerir <anime>` — Sugere um anime\n"
+            "`$sugestoes` — Fila de sugestões\n"
+            "`$votar <ID>` — Vota em sugestão\n"
+            "`$sugestao <ID>` — Detalhes\n"
+            "*Cooldown: 60s*"
+        ), inline=False)
+        embed.add_field(name="🔗 Perfil MyAnimeList", value=(
+            "`$linkmal <usuário>` — Vincula seu perfil MAL\n"
+            "`$malperfil [@user]` — Vê perfil MAL vinculado\n"
+            "`$importarmal [N]` — Importa seus animes → adiciona personagens!\n"
+            "`$deslinkarmal` — Remove vínculo MAL\n"
+            "*Importação cooldown: 1h | máx 50 animes por vez*"
+        ), inline=False)
+        embed.add_field(name="⚙️ Admin", value=(
+            "`$topchars [N]` — Importa top N×25 personagens do MAL\n"
+            "`$updatecache [N]` — Update via pool de animes\n"
+            "`$updategender [N]` — Preenche gêneros desconhecidos\n"
+            "`$aprovar/rejeitar <ID>` — Gerencia sugestões\n"
+            "`$setlogchannel #canal` — Canal de log\n"
+            "`$autostatus` / `$malstats` — Painel de stats\n"
+            "`$cachestats` — Stats do cache"
+        ), inline=False)
         embed.set_thumbnail(url=self.bot.user.display_avatar.url)
+        embed.set_footer(text="Cache automático: +3 animes/6h | Top chars: semanal | Gênero: +100/24h")
         await ctx.send(embed=embed)
 
-
-async def setup(bot: commands.Bot):
+async def setup(bot):
     await bot.add_cog(Help(bot))
